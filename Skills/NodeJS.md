@@ -2,7 +2,7 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Stateful and stateless servers: 👂 heard
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
@@ -17,8 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -35,8 +35,8 @@
 - Internal API
   - Streams API
   - Web Streams API
-  - Crypto API
-  - Password hashing with node:crypto.scrypt
+  - Crypto API: 🔬 researched
+  - Password hashing with node:crypto.scrypt: 🔬 researched
   - Web Crypto API
   - File system API: sync and async
   - Copy folder recursively
@@ -58,7 +58,7 @@
   - node:url vs new URL
   - node:assert
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer: 🖐️ used
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
@@ -66,14 +66,14 @@
   - Separation of concerns
   - Inversion of control
   - Dependency injection
-  - GRASP
-  - SOLID
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
   - GoF patterns
   - Distributed systems
   - Highload applications
   - Clean architecture
   - DDD
-  - Message Queue
+  - Message Queue: 👂 heard
   - CQS
   - CQRS
   - Event sourcing
@@ -85,24 +85,24 @@
   - Leaking abstractions
 - Network
   - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
+  - Endpoint throttling: 🖐️ used
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
   - UDP
-  - TLS
+  - TLS: 👂 heard
   - Websocket
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC): 👂 heard
   - Long polling
-  - REST
+  - REST: 🎓 known
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing: 👂 heard
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS: 🎓 known
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -114,16 +114,16 @@
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 🖐️ used
   - Application configuring
-  - Testing
+  - Testing: 🎓 known
   - CI/CD
   - Readable
   - Writable
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console: 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -131,16 +131,16 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error: 👂 heard
+  - error.cause👂 heard
+  - error.code: 👂 heard
+  - error.message: 👂 heard
+  - error.stack: 👂 heard
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
