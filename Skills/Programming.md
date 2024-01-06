@@ -24,7 +24,7 @@
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 🖐️ used
-  - regular expression: 🎓 known
+  - regular expression: 🖐️ used
   - interface
   - contract
   - module
@@ -67,10 +67,10 @@
   - doubly list: 🎓 known
   - unrolled list
   - circular list
-  - queue: 🎓 known
-  - stack: 🎓 known
+  - queue: 🖐️ used
+  - stack: 🖐️ used
   - deque
-  - tree: 🎓 known
+  - tree: 🖐️ used
   - graph: 🎓 known
   - iterator
   - mutable state
