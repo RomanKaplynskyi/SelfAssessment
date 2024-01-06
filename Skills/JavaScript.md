@@ -31,7 +31,7 @@
   - bitwise operators: 👂 heard
   - ternary operator: 🖐️ used
   - void: 🎓 known
-  - yield: 👂 heard
+  - yield: 🎓 known
   - await: 🖐️ used
   - template literal: 🖐️ used
   - strict mode: 👂 heard
@@ -56,7 +56,7 @@
   - label: 👂 heard
   - try..catch: 🖐️ used
   - switch: 🖐️ used
-  - class: 🎓 known
+  - class: 🖐️ used
   - new Error: 👂 heard
   - with: 🎓 known
 - Functions
@@ -78,7 +78,7 @@
   - weak collections
   - timers: 🎓 known
   - EventEmitter: 🎓 known
-  - RegExp: 🎓 known
+  - RegExp: 🖐️ used
   - Date: 🖐️ used
   - BigInt: 🖐️ used
 - Infrastructure
@@ -86,4 +86,4 @@
   - Node.js: 🎓 known
   - npm: 🖐️ used
   - prettier
-  - MDN: 🎓 known
+  - MDN: 🖐️ used

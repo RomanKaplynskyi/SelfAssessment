@@ -30,7 +30,7 @@
   - Public fields: 🎓 known
   - Private fields: 🎓 known
   - Field declarations
-  - Inheritance: 👂 heard
+  - Inheritance: 🖐️ used
   - Parent class: 👂 heard
   - Polymorphism: 👂 heard
   - Abstract class
@@ -49,18 +49,18 @@
   - Observer: 👂 heard
   - Strategy: 👂 heard
   - Facade: 👂 heard
-  - Proxy 
-  - Chain of Responsibility 
+  - Proxy: 👂 heard 
+  - Chain of Responsibility: 👂 heard 
   - Command: 👂 heard
-  - Iterator 
+  - Iterator: 👂 heard 
   - State: 👂 heard
   - Bridge: 👂 heard
   - Builder: 👂 heard
-  - Prototype
-  - Composite
+  - Prototype: 👂 heard
+  - Composite: 👂 heard
   - Decorator: 👂 heard
-  - Flyweight
+  - Flyweight: 👂 heard
   - Mediator: 👂 heard
   - Memento: 👂 heard
-  - Template Method 
-  - Visitor 
+  - Template Method: 👂 heard 
+  - Visitor: 👂 heard 
